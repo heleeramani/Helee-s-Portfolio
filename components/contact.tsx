@@ -57,14 +57,14 @@ export function Contact() {
 
         <footer className="mt-20 flex flex-wrap items-center justify-between gap-x-8 gap-y-3 border-t border-line/70 pt-6 font-mono text-[11px] uppercase tracking-[0.12em] text-faint">
           <p>© 2026 Helee Ramani · Surat, India</p>
-          <p className="flex items-center gap-2">
+          {/* <p className="flex items-center gap-2">
             <span
               className="h-1.5 w-1.5 rounded-full bg-accent"
               aria-hidden="true"
             />
             All systems operational
           </p>
-          <p>Next.js · Tailwind</p>
+          <p>Next.js · Tailwind</p> */}
         </footer>
       </div>
     </section>

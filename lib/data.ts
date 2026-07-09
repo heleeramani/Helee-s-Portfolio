@@ -17,8 +17,8 @@ export const site = {
   email: "heleeramani@gmail.com",
   resumeHref: "/resume.pdf",
   links: {
-    github: "#",
-    linkedin: "#",
+    github: "https://github.com/heleeramani",
+    linkedin: "https://www.linkedin.com/in/heleeramani",
   },
 } as const;
 
@@ -117,7 +117,7 @@ export const projects = [
       "Computer Vision",
       "Gunicorn",
     ],
-    href: "#",
+    href: "https://py-calculator-simple-finger-detection-1.onrender.com",
   },
 
   {
@@ -133,7 +133,7 @@ export const projects = [
       "SQLAlchemy",
       "Gemini AI",
     ],
-    href: "https://to-do-xho1.onrender.com",
+    href: "https://py-todo-1.onrender.com/",
   },
 
   {
@@ -164,7 +164,7 @@ export const projects = [
       "PostgreSQL",
       "JWT",
     ],
-    href: "#",
+    href: "https://py-emp-management-system-front.onrender.com",
   },
 ] as const;
 
@@ -174,13 +174,13 @@ export const stack = [
     items:
       "Node.js · Express.js · REST & CRUD APIs · JWT authentication · Middleware · Role-based access · Payment gateway integration · Strapi CMS · Payload CMS · FastAPI · Flask · Docker · Redis · Socket.IO",
   },
-  {
-    label: "Frontend",
-    items: "JavaScript · React.js · Next.js (basic)",
-  },
+  // {
+  //   label: "Frontend",
+  //   items: "JavaScript · React.js · Next.js (basic)",
+  // },
   {
     label: "Databases",
-    items: "MongoDB · PostgreSQL · Supabase",
+    items: "MongoDB · PostgreSQL",
   },
   {
     label: "Tools & Workflow",
