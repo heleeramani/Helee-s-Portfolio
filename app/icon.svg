@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="16" fill="#fdf5f8"/>
-  <rect x="17" y="15" width="9" height="34" fill="#d81f76"/>
-  <rect x="38" y="15" width="9" height="34" fill="#d81f76"/>
-  <rect x="17" y="28" width="30" height="8" fill="#d81f76"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="120" fill="#eaf2fe"/>
+  <text x="50%" y="53%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Arial, Helvetica, sans-serif" font-weight="bold"
+        font-size="280" fill="#3b82f6">H</text>
 </svg>
